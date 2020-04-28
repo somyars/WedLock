@@ -19,3 +19,6 @@ This is a full-stack web application to provide wedding services to the user. It
 
 ## System Architecture
 ![Repo List](screenshots/Arch.png)
+
+## Home Page
+![Repo List](screenshots/HomePage.png)
